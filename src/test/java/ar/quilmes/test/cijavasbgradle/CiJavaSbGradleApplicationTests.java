@@ -8,8 +8,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class CiJavaSbGradleApplicationTests {
 
 	@Test
-	void failingTest() {
-        assertEquals(42, Integer.sum(23, 18));
+	void passingTest() {
+        assertEquals(42, Integer.sum(23, 19));
 	}
 
 }
