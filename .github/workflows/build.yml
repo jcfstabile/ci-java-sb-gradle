@@ -1,4 +1,4 @@
-name: ci-java-sb-gradle
+name: ci-java-sb-gradle-test
 on:
     push:
         branch: main
